@@ -1,0 +1,22 @@
+{
+  "name": "nodebetoni",
+  "version": "1.0.0",
+  "description": "Muutos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joniluomala/nodebetoni.git"
+  },
+  "keywords": [
+    "betoni"
+  ],
+  "author": "Joni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joniluomala/nodebetoni/issues"
+  },
+  "homepage": "https://github.com/joniluomala/nodebetoni#readme"
+}
